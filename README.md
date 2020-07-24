@@ -12,7 +12,8 @@ As general to train the model there given images of human protein samples. We co
 The key libraries i used to train this model are :
 
 0.For Neural Network [Pytorch](https://pytorch.org/) ![Pytorch symbol](https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3APytorch_logo.png&psig=AOvVaw2K5Mb8YA9vcAUAW8c8EqAh&ust=1595664985610000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDuzbi55eoCFQAAAAAdAAAAABAD)
-1.For cross validation [ScikitLearn](https://scikit-learn.org/stable/) ![scikit learn logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.cleanpng.com%2Fpng-scikit-learn-python-scikit-image-logo-brand-custom-6358880%2F&psig=AOvVaw2p3ndL3RY-LBhcaJn_lci_&ust=1595665088198000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKid3-m55eoCFQAAAAAdAAAAABAq)
+
+1.For cross validation [ScikitLearn](https://scikit-learn.org/stable/) ![scikit learn logo](https://banner2.cleanpng.com/20180823/ipi/kisspng-scikit-learn-python-scikit-image-logo-brand-custom-application-development-service-provider-ap-5b7f65a43cd484.7557485915350757482492.jpg)
 
 2.For Datframe and other things [Pandas](https://pandas.pydata.org/) ![Pandas logo](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.kindpng.com%2Fimgv%2FTihJToo_python-pandas-logo-transparent-hd-png-download%2F&psig=AOvVaw327MMjUcWGoh7RzEtSZs5i&ust=1595665170409000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJiOxpS65eoCFQAAAAAdAAAAABAS)
 
